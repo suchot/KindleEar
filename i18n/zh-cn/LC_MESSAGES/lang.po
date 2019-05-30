@@ -82,7 +82,7 @@ msgstr "退出"
 msgid "Feeds"
 msgstr "我的订阅"
 
-msgid "Setting"
+msgid "Settings"
 msgstr "设置"
 
 msgid "Logs"
@@ -91,7 +91,7 @@ msgstr "投递日志"
 msgid "Admin"
 msgstr "账户管理"
 
-msgid "Advance"
+msgid "Advanced"
 msgstr "高级设置"
 
 msgid "Please Login"
@@ -181,7 +181,7 @@ msgstr "好消息时刻相随。"
 msgid "Inherited From Calibre"
 msgstr "源自Calibre"
 
-msgid "Share Your Idea"
+msgid "Share Your Ideas"
 msgstr "分享智慧"
 
 msgid ""
@@ -255,6 +255,15 @@ msgstr "未订阅"
 
 msgid "Subscribe"
 msgstr "订阅"
+
+msgid "Bookmarklet"
+msgstr "书签小应用"
+
+msgid "Drag and drop this link to your bookmarks."
+msgstr "将链接拖动到书签栏"
+
+msgid "Add to KindleEar"
+msgstr "在 KindleEar 中订阅"
 
 msgid "No have book unsubscrebed"
 msgstr "暂时没有未订阅的书籍"
@@ -651,3 +660,72 @@ msgstr "期号"
 
 msgid "Record"
 msgstr "信息"
+
+msgid "Expiration"
+msgstr "有效期"
+
+msgid "Never expire"
+msgstr "永久有效"
+
+msgid "1 Month"
+msgstr "1个月"
+
+msgid "3 Months"
+msgstr "3个月"
+
+msgid "6 Months"
+msgstr "6个月"
+
+msgid "1 Year"
+msgstr "1年"
+
+msgid "Remove hyperlinks"
+msgstr "移除链接"
+
+msgid "Not remove"
+msgstr "不移除"
+
+msgid "Image"
+msgstr "图片"
+
+msgid "Text"
+msgstr "正文"
+
+msgid "All"
+msgstr "全部"
+
+msgid "The username not exist or the email of kindle is empty."
+msgstr "对应用户名不存在或kindle email未设置。"
+
+msgid "Seperated by semicolon"
+msgstr "分号隔开多个地址"
+
+msgid "Deliver selected books now."
+msgstr "手动推送已选择的书籍。"
+
+msgid "Deliver"
+msgstr "推送"
+
+msgid "Select all"
+msgstr "选择全部"
+
+msgid "Select none"
+msgstr "取消全部"
+
+msgid "Import as fulltext RSS by default"
+msgstr "默认导入为全文订阅源"
+
+msgid "Do not have any subscribed book."
+msgstr "暂时没有已订阅的书籍。"
+
+msgid "Sendgrid Mail Setting"
+msgstr "Sendgrid邮件设置"
+
+msgid "Use Sendgrid"
+msgstr "使用Sendgrid"
+
+msgid "ApiKey"
+msgstr "密钥"
+
+msgid "Need sendgrid ApiKey!"
+msgstr "请输入Sendgrid的ApiKey！"
